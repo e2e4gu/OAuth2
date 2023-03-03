@@ -1,6 +1,6 @@
 {
     "name": "muffin/oauth2",
-    "description": "CakePHP 3 authentication using the league/oauth2-client family",
+    "description": "CakePHP 4 authentication using the league/oauth2-client family",
     "type": "cakephp-plugin",
     "keywords": [
         "cakephp",
@@ -33,7 +33,7 @@
         "source": "https://github.com/usemuffin/oauth2"
     },
     "require-dev": {
-        "cakephp/cakephp": "^3.5",
+        "cakephp/cakephp": "^4.0",
         "league/oauth2-github": "^2.0",
         "phpunit/phpunit": "^5.7.14|^6.0"
     },
